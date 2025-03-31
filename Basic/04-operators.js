@@ -7,7 +7,8 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=4937
 
 let a = 5
 let b = 10
-
+a++
+console.log(a)
 console.log(a + b) // Suma
 console.log(a - b) // Resta
 console.log(a * b) // Multiplicación
